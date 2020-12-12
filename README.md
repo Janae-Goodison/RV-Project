@@ -1,6 +1,6 @@
 # HOW TO RUN
-(1. Python is the langauage that is used for this application so make sure python is installed before running.)
-(2. To open from GitHub, clone the application and run the file rv_project.py.)
+1. Python is the langauage that is used for this application so make sure python is installed before running.
+2. To open from GitHub, clone the application and run the file rv_project.py.
 
 # BOT-O-MAT
 
